@@ -28,8 +28,13 @@
     color: black;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
     background-color: #04AA6D;
     color: white;
+}
+
+.footer {
+    background-color: slategrey;
+    text-align: center;
+    padding-top: 10px;
 }
