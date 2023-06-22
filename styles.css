@@ -1,4 +1,13 @@
 
+.body {
+    background-color:azure;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    float: left;
+}
+
+
 .navbar {
     background-color: grey;
     overflow: hidden;
