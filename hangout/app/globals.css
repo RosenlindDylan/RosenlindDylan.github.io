@@ -1,0 +1,21 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+:root {
+  background-color: aliceblue;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    background-color: aliceblue;
+  }
+}
+
+body {
+  background-color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+}
