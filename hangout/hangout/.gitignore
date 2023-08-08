@@ -36,3 +36,9 @@ next-env.d.ts
 
 #mongod_uri local env
 .env.local.example
+
+## files in root
+compiler.html
+page.js
+psite.html
+suggestion.js
