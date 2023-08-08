@@ -4,8 +4,9 @@ body {
     padding-left: 10px;
     padding-right: 10px;
     text-align: center;
-    float: left;
     align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
 }
 
 
@@ -39,6 +40,8 @@ topnav a.active {
 footer {
     background-color: slategrey;
     text-align: center;
-
-    padding-top: 10px;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
