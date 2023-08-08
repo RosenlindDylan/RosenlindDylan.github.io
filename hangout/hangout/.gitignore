@@ -42,3 +42,6 @@ next-env.d.ts
 
 # src folder
 ../../src/
+
+# hangout app temporarily
+../../hangout
