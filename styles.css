@@ -22,7 +22,6 @@
     font-size: 17px;
 }
 
-
 .topnav a:hover {
     background-color: #ddd;
     color: black;
@@ -33,8 +32,9 @@
     color: white;
 }
 
-.footer {
+footer {
     background-color: slategrey;
     text-align: center;
+
     padding-top: 10px;
 }
