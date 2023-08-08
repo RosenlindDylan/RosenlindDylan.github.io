@@ -38,10 +38,7 @@ next-env.d.ts
 .env.local.example
 
 ## files in root
-compiler.html
-page.js
-psite.html
-suggestion.js
+../../current_projs
 
 # src folder
-src/
+../../src/
