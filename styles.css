@@ -10,7 +10,7 @@ body {
 }
 
 
-navbar {
+/* navbar {
     background-color: grey;
     overflow: hidden;
     flex: 1;
@@ -35,13 +35,37 @@ topnav a:hover {
 topnav a.active {
     background-color: #04AA6D;
     color: white;
-}
+} */
 
 footer {
-    background-color: slategrey;
+    background-color: gainsboro;
     text-align: center;
     position: relative;
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imgcontainer {
+    position:relative
+}
+
+.overlaytext {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    width: 50%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 14px;
+    padding: 20px;
+    text-align: center;
+  }
