@@ -9,6 +9,10 @@ body {
     position: relative;
 }
 
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 
 /* navbar {
     background-color: grey;
