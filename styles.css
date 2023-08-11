@@ -58,14 +58,17 @@ h1 {
 }
 
 .imgcontainer {
-    position:relative;
-    width: 50%;
+    display: flex;
+    justify-content: center;
     align-items: center;
+    width: 50%;
 }
 
 .image {
-    align-self: center;
+    max-width: 100%;
+    height: auto;
 }
+
 
 
 .overlaytext {
