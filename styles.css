@@ -53,7 +53,9 @@ h1 {
 }
 
 .imgcontainer {
-    position:relative
+    position:relative;
+    width: 50%;
+    max-width: 300px;
 }
 
 .image {
@@ -63,9 +65,9 @@ h1 {
 }
 
 .overlaytext {
-    position: absolute;
+    position: relative;
     background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(202, 202, 202, 0.578);
     color: #f1f1f1;
     width: 50%;
     transition: .5s ease;
