@@ -64,16 +64,16 @@ h1 {
 }
 
 .overlaytext {
-    position: relative;
+    position: absolute;
     background: rgb(0, 0, 0);
-    background: rgba(202, 202, 202, 0.578);
-    color: #f1f1f1;
+    background: rgba(145, 145, 145, 0.578);
+    color: #C0DFD9;
     width: 50%;
     transition: .5s ease;
     opacity:0;
     color: white;
-    font-size: 14px;
-    padding: 20px;
+    font-size: 18px;
+    padding: 10px;
     text-align: center;
   }
 
