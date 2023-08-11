@@ -62,12 +62,6 @@ h1 {
     align-self: center;
 }
 
-.image {
-    display: block;
-    width: 100%;
-    height: auto;
-    align-self: center;
-}
 
 .overlaytext {
     position: absolute;
