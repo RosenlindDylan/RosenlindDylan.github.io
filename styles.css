@@ -56,6 +56,12 @@ h1 {
     position:relative
 }
 
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .overlaytext {
     position: absolute;
     background: rgb(0, 0, 0);
