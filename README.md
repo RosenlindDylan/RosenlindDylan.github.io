@@ -1,1 +1,1 @@
-# personal website to track projects / personal learning
+Personal website @ https://rosenlinddylan.github.io/
