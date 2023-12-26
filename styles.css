@@ -1,26 +1,27 @@
 
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
 body {
-    background-color: powderblue;
+    background-color: rgb(191, 248, 255);
     padding-left: 10px;
     padding-right: 10px;
     text-align: center;
-    align-items: center;
-    align-self: center;
     position: relative;
 }
 
 body h1 {
-    font-family: 'Source Sans Pro', sans-serif;
-    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 5px;
     font-weight: 300;
     font-size: 3em;
-}
-
-body h2 {
-    font-family: 'Source Sans Pro', sans-serif;
-    padding-bottom: 10px;
-    font-weight: 300;
-    font-size: 2em;
 }
 
 body p {
@@ -43,35 +44,8 @@ body a {
     text-decoration: none;
 }
 
-/* navbar {
-    background-color: grey;
-    overflow: hidden;
-    flex: 1;
-    flex-direction: row;
-    
-}
-
-topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-topnav a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
-topnav a.active {
-    background-color: #04AA6D;
-    color: white;
-} */
-
 footer {
-    background-color: powderblue;
+    background-color: rgb(191, 248, 255);
     flex-direction: row;
     text-align: center;
     position: relative;
