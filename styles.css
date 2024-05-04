@@ -11,22 +11,22 @@ html, body {
 
 body {
     background-color: rgb(197, 232, 237);
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
     text-align: center;
     position: relative;
 }
 
 body h1 {
     font-family: 'Montserrat', sans-serif;
-    padding-bottom: 5px;
+    padding-bottom: 0.3%;
     font-weight: 300;
     font-size: 3em;
 }
 
 body p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 100%;
     width: 50%;
     margin: 0 auto;
     text-align: center;
@@ -36,7 +36,7 @@ body p {
 
 body a {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 100%;
     width: 50%;
     text-align: center;
     margin-top: 1rem;
@@ -49,8 +49,8 @@ footer {
     flex-direction: row;
     text-align: center;
     position: relative;
-    padding-top: 10px;
-    padding-bottom: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
